@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "uf-egn5216-eel5934-eel4930-fall-2026"
+assignment: "homework-0"
+owner:
+  username: "ShaeHuang"
+  id: 234074811
+  accepted_at: "2026-08-31T17:08:23Z"
+source:
+  owner: "UF-AML-Fall-2026"
+  owner_id: 317658630
+  repo: "Homework-0"
+  branch: "main"
